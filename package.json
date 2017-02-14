@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daniel Green",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuicampuscd/find-intersection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byuicampuscd/find-intersection/issues"
+  },
+  "homepage": "https://github.com/byuicampuscd/find-intersection#readme",
+  "dependencies": {
+    "d3-dsv": "^1.0.3",
+    "venn": "^1.0.2"
+  }
 }
